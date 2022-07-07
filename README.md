@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramzi Chahbani
 - 👀 I’m interested in Tech in General and Currently I'm a frontend Software Developer with Knowledge of the backend (MERN)
-- 🌱 I’m currently learning NextJS, Auth with JWT and React Native
+- 🌱 I’m currently learning React Native
 - 💞️ I’m Open To contribute to the amazing projects you bring
 - 📫 You can reach out to me at rdev82638@gmail.com or https://www.linkedin.com/in/ramzi-chahbani-a1b70020a/
