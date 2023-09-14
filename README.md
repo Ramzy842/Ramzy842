@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ramzi Chahbani
+- 👋 Hi, I’m Ramzi Chahbani. Student at 1337 (42 network)
 - 👀 I’m interested in Tech in General and Currently I'm a Fullstack Software Developer (MERN stack)
 - 🌱 I’m currently learning Typescript and React Native
 - 💞️ I’m Open To contribute to the amazing projects you bring
