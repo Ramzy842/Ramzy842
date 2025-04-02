@@ -38,12 +38,6 @@ A **task management web app** built with **MERN** featuring advanced test automa
 - **Comprehensive API Testing**: Supertest & Jest for backend validation.
 - **Scalable Deployment**: Hosted on AWS with CI/CD.
 
-### ⚡ [AI Decision Assistant (WPS SaaS)](https://github.com/Ramzy842/WPS-AI)
-An AI-powered SaaS that helps users make data-driven decisions using weighted criteria.
-- **Automated UI & API Testing**
-- **Cloud-Based Infrastructure** (AWS & Docker)
-- **Dynamic AI-Powered User Assistance**
-
 ## 📚 What I'm Learning
 - Advanced **test-driven development (TDD)** & **behavior-driven development (BDD)**.
 - Expanding my knowledge in **AWS cloud architecture**.
