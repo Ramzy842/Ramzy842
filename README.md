@@ -1,6 +1,6 @@
 # Hi, I'm Ramzi Chahbani 👋
 
-🚀 ** Full-Stack Developer
+🚀 **Full-Stack Developer**
 
 I'm a passionate **full-stack developer** with a strong background in building and testing scalable web applications. My expertise spans across software development and test automation. I thrive on ensuring software reliability, scalability, and performance through comprehensive testing and best development practices.
 
