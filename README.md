@@ -1,28 +1,27 @@
 # Hi, I'm Ramzi Chahbani 👋
 
-🚀 **QA Automation Engineer | Full-Stack Developer
+🚀 ** Full-Stack Developer
 
-I'm a passionate **QA automation engineer** and **full-stack developer** with a strong background in building and testing scalable web applications. My expertise spans across software quality assurance, test automation and backend development. I thrive on ensuring software reliability, scalability, and performance through comprehensive testing and best development practices.
+I'm a passionate **full-stack developer** with a strong background in building and testing scalable web applications. My expertise spans across software development and test automation. I thrive on ensuring software reliability, scalability, and performance through comprehensive testing and best development practices.
 
 ## 🔍 What I Do
-
-- **QA & Test Automation:** Writing and maintaining robust automated test suites for web applications.
 - **Full-Stack Development:** Building scalable web applications using the **MERN (MongoDB, Express, React, Node.js) stack**.
+- **QA & Test Automation:** Writing and maintaining robust automated test suites for web applications.
 - **Performance & Security Testing:** Ensuring applications are secure, optimized, and perform efficiently under load.
 
 ## 🛠️ Tech Stack & Tools
-
-### 🔹 **QA & Automation**
-- **Playwright, Cypress, Selenium** – E2E Testing
-- **Jest, Supertest** – Unit & Integration Testing
-- **Postman, Newman** – API Testing
-- **Allure** – Test Reporting & Assertions
-- **GitHub Actions** – CI/CD for automated test execution
 
 ### 🔹 **Full-Stack Development**
 - **Frontend:** React, TypeScript, Redux, TailwindCSS, Bootstrap
 - **Backend:** Node.js, Express, MongoDB, PostgreSQL
 - **Authentication:** JWT, OAuth (Google)
+
+### 🔹 **QA & Automation**
+- **Playwright, Cypress** – E2E Testing
+- **Jest, Supertest** – Unit & Integration Testing
+- **Postman** – API Testing
+- **Allure** – Test Reporting & Assertions
+- **GitHub Actions** – CI/CD for automated test execution
 
 ### 🔹 **DevOps & Cloud**
 - **AWS** (S3)
