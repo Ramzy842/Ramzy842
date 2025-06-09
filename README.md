@@ -6,7 +6,7 @@ I'm a passionate **full-stack developer** with a strong background in building a
 
 ## 🔍 What I Do
 - **Full-Stack Development:** Building scalable web applications using the **MERN (MongoDB, Express, React, Node.js) stack**.
-- **QA & Test Automation:** Writing and maintaining robust automated test suites for web applications.
+- **Test Automation:** Writing and maintaining robust automated test suites for web applications.
 - **Performance & Security Testing:** Ensuring applications are secure, optimized, and perform efficiently under load.
 
 ## 🛠️ Tech Stack & Tools
