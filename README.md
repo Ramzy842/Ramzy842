@@ -4,7 +4,7 @@ Full-Stack Engineer · Casablanca, Morocco
 
 I build and ship production-grade web applications end to end —
 from architecture and backend APIs to UI and deployment.
-Self-taught via 1337 Casablanca (42 Network).
+Studies at 1337MED (42 Network).
 
 ---
 
@@ -16,7 +16,7 @@ classifies ads using LLMs, and helps dropshippers find winning
 products in ~13 seconds instead of 30+ minutes.
 
 **Stack:** Next.js · Node.js · Express · PostgreSQL · Prisma · Redis ·
-BullMQ · Playwright · Fireworks AI · Docker · Nginx · DigitalOcean
+BullMQ · Playwright · Ollama · Docker · Nginx · DigitalOcean
 
 **Key engineering:** Parallel job queues · SSE real-time streaming ·
 LLM-powered ad classification · Browser automation at scale ·
@@ -29,7 +29,7 @@ Webhook handling · Subscription billing (Polar.sh)
 **Frontend:** React · Next.js · TypeScript · TailwindCSS  
 **Backend:** Node.js · Express · FastAPI · Python  
 **Database:** PostgreSQL · Prisma · Redis  
-**Infrastructure:** Docker · Nginx · DigitalOcean · AWS · CI/CD  
+**Infrastructure:** Docker · Nginx · DigitalOcean · AWS · Github Actions CI/CD  
 **Tools:** Playwright · BullMQ · Figma · Git  
 
 ---
