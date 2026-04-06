@@ -2,7 +2,7 @@
 
 Full-Stack Engineer · Rabat, Morocco
 
-I build and ship production-grade web applications end to end —
+I build and ship production-grade web applications end to end,
 from architecture and backend APIs to UI and deployment.
 Studied at 1337MED (42 Network).
 
@@ -10,7 +10,7 @@ Studied at 1337MED (42 Network).
 
 ## 🚀 What I've Shipped
 
-### Adbolt — [adbolt.app](https://adbolt.app) · [@AdboltAI](https://x.com/AdboltAI)
+### Adbolt - [adbolt.app](https://adbolt.app) · [@AdboltAI](https://x.com/AdboltAI)
 A production SaaS that scrapes the Meta Ad Library in real time,
 classifies ads using LLMs, and helps dropshippers find winning
 products in ~13 seconds instead of 30+ minutes.
