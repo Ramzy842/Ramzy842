@@ -4,7 +4,7 @@ Full-Stack Engineer · Casablanca, Morocco
 
 I build and ship production-grade web applications end to end —
 from architecture and backend APIs to UI and deployment.
-Studies at 1337MED (42 Network).
+Studied at 1337MED (42 Network).
 
 ---
 
