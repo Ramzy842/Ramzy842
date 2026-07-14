@@ -1,6 +1,6 @@
 # Ramzi Chahbani
 
-Full-Stack Engineer · Rabat, Morocco
+Full-Stack Engineer · Morocco
 
 I build and ship production-grade web applications end to end,
 from architecture and backend APIs to UI and deployment.
